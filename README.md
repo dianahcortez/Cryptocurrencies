@@ -22,4 +22,4 @@ The data Martha will be working with is not ideal, so it will need to be process
 
 
 ## Resources
-- Jupyter Notebook, provided CSV file (crypto_data.csv), Crypto Clustering Starter code (.ipynb)
+- Jupyter Notebook, Python, Anaconda, provided CSV file (crypto_data.csv), Crypto Clustering Starter code (.ipynb)
