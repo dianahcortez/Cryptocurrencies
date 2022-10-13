@@ -11,8 +11,11 @@ The data Martha will be working with is not ideal, so it will need to be process
 
 ## Results
 
+<img width="600" alt="1  currently trading" src="https://user-images.githubusercontent.com/104927745/195659409-e1829d9c-a61c-4ace-9333-a6519c589e85.PNG">
 
+<img width="600" alt="2  elbow curve" src="https://user-images.githubusercontent.com/104927745/195659418-09a2c9c8-30d7-4353-b964-5bb23203fb9e.PNG">
 
+<img width="600" alt="3  scatter plot" src="https://user-images.githubusercontent.com/104927745/195659796-fa4c3474-461f-4e32-8e02-83909c654839.PNG">
 
 ## Summary
 
